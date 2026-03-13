@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+extract.py
+assignment.txt
+Intern Assignment.pdf
